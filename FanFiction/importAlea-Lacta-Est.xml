@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Fiction>
+	<ImportType>Selector</ImportType>
+	<Title>Alea Iacta Est</Title>
+	<Arthor>ack1308</Arthor>
+	<Synops>There is none</Synops>
+	<Cover>https://ffcdn2012t-fictionpressllc.netdna-ssl.com/image/2978780/75/</Cover>
+
+	<Index>https://www.fanfiction.net/s/11373478/1/Alea-Iacta-Est</index>
+	<Selector>#chap_select</Selector>
+	<ChapterURLStart>https://www.fanfiction.net/s/11373478/</ChapterURLStart>
+	<ChapterURLEnd>/Alea-Iacta-Est</ChapterURLEnd>
+	<ChapterText>div#storytext</ChapterText>
+</Fiction>
