@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Fiction>
+	<ImportType>ChosenOne</ImportType>
+	<Title>Stellar Transformations</Title>
+	<Arthor>I Eat Tomatoes</Arthor>
+	<Synops>aka Stellar Transformation, is a webnovel by popular Chinese Xianxia (fantasy/kung fu) writer I Eat Tomatoes </Synops>
+	<Cover>https://images.gr-assets.com/books/1414240105l/23446488.jpg</Cover>
+
+	<Index>https://www.wuxiaworld.com/novel/stellar-transformations</index>
+	<ChosenOne>https://www.wuxiaworld.com/novel/stellar-transformations</ChosenOne>
+	<ChapterTitle>div > h4</ChapterTitle>
+	<ChapterText>div.fr-view</ChapterText>
+	
+</Fiction>
